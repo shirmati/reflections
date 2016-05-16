@@ -1,0 +1,22 @@
+learned commands. mkdir to create a folder in the current directory.
+
+#How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+since I can see what I've done before, I can easily revert any changes that weren't helpful and learn from my past mistakes (thus write better code!)
+
+#What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros - every commit has logical seperation. it is customized by the developers to suit their needs.
+cons - commits might be too big/small. 
+
+#Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+I think because of their initial purpose. Coding invloves lots of files, related to each other. Docs - they are usually 
+not related to each other, or else - they are all in the same file.
+
+#How can you use the commands git log and git diff to view the history of files?
+using git log helps me view all of the commits, the time they were made, author and msg.
+That, along with git diff, allows me to see what werethe exact differences between the versions.
+
+#How might using version control make you more confident to make changes that could break something?
+I know that I'm able to view the differences I've made, and easily revert them (usig git checkout) to any specific version.
+
+#Now that you have your workspace set up, what do you want to try using Git for?
+currently a sample project, than, for the mobile corse :)
